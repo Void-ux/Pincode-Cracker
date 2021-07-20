@@ -1,14 +1,3 @@
-﻿/**
- * @Author: Stuart Bannerman
- * @Date:   2015-08-17 10:05:03
- * @Last Modified by: Stuart Bannerman
- * @Last Modified time: 2015-09-20 82:15:12
- * @Repository: https://github.com/m3talstorm/ArkPincodeCracker
- * @License: MIT
- * @Description: A bot written in AutoHotKey to brute force the pin code locks in ARK: Survival Evolved
- */
-
-
 ; Standard keybinds
 +^R::Reload      ; Reloads Script: Control + Shift + R
 +^P::Pause       ; (Un)Pauses  Script: Control + Shift + P
@@ -93,5 +82,3 @@ Attempt(code)
 
 
 Return
-
-
